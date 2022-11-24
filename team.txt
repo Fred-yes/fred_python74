@@ -1,2 +1,3 @@
-Leader  : fredi
-Staff   : -
+Leader  : fredi herlian
+Staff   : oke
+Done
